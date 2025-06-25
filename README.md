@@ -1,1 +1,20 @@
-# name1-1919886d-9a51-4782-86e0-8bbc7175aca4
+# name1
+
+## Descrição
+# API FastAPI para Manipulação de Itens
+
+## Instalação
+1. Clone o repositório
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Uso
+Execute o servidor:
+```bash
+uvicorn src.main:app --reload
+```
+
+## Documentação
+Consulte a pasta `docs` para a documentação completa do projeto.
